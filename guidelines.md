@@ -1,10 +1,26 @@
-<a name="civilized"></a>
+# Community Guidelines
 
-## [This is a Civilized Place for Public Discussion](#civilized)
+Community.lsst.org is a commons for project staff and the scientific community to collaborate and build the [Large Synoptic Survey Telescope](http://www.lsst.org). An inclusive, collaborative environment is necessary to support a broad, diverse group of individuals as they contribute their best effort.
 
-Please treat this discussion forum with the same respect you would a public park.  We, too, are a shared community resource &mdash; a place to share skills, knowledge and interests through ongoing conversation.
+This forum should be treated with the same respect you would a public park. This is a shared community resource — a place to share knowledge and opinions through ongoing conversation. We are all responsible for following the [LSST Code of Conduct](https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-24920) and [flagging issues](#flag-problems) for moderator intervention. Use the following guidelines to keep this a clean, well-lighted place for civilized public discourse.
 
-These are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
+**Please also refer to LSST’s [Communications Code of Conduct](https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-24920).** The page you’re on is a helpful reference specifically for the LSST Community forum.
+
+## Elements of LSST Workplace Culture
+
+Interactions on the Community forum reflect LSST’s workplace culture:
+
+1. **Be kind.** LSST realizes the impact of kindness to empower individuals to act in ways that strengthen ourselves, our relationships and our communities.
+2. **Trust.** An inclusive, collaborative environment is best achieved when there is mutual trust, based upon honest behavior, throughout the community.
+3. **Respect.** Inclusive environments foster excellence by challenging us to consider a variety of viewpoints and approaches. We honor alternate viewpoints as opportunies for discussion and learning, and therefore treat others with respect, even if we disagree.
+4. **Diverse.** Valuing diversity recognizes differences between people and acknowledges that these differences are an asset, bringing strength to a community through new ideas, innovation, and creativity. 
+5. **Inclusive.** By being inclusive, LSST strives to create an environment of involvement, respect, and connection that values and benefits from diverse backgrounds and perspectives.
+
+<a name="diversity"></a>
+
+## [Value diversity](diversity)
+
+Recognize that our project includes individuals with different communication styles. All voices must be heard to promote excellence. Share the air. Raise all voices.
 
 <a name="improve"></a>
 
@@ -92,6 +108,10 @@ This site is operated by your [friendly local staff](/about) and *you*, the comm
 
 <a name="tos"></a>
 
+## Disclaimer
+
+Any opinions, statements (including statements about LSST and what it will deliver), or recommendations expressed on this forum are those of the author(s) and do not necessarily reflect the views of the LSST Project.
+
 ## [Terms of Service](#tos)
 
-Yes, legalese is boring, but we must protect ourselves &ndash; and by extension, you and your data &ndash; against unfriendly folks. We have a [Terms of Service](/tos) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [TOS](/tos).
+We have a [Terms of Service](/tos) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [TOS](/tos).
