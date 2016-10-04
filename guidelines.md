@@ -106,11 +106,13 @@ You may not post anything digital that belongs to someone else without permissio
 
 This site is operated by your [friendly local staff](/about) and *you*, the community. If you have any further questions about how things should work here, open a new topic in the [meta category](/c/meta) and let's discuss! If there's a critical or urgent issue that can't be handled by a meta topic or flag, contact us via the [staff page](/about).
 
-<a name="tos"></a>
+<a name="disclaimer"></a>
 
-## Disclaimer
+## [Disclaimer](#disclaimer)
 
 Any opinions, statements (including statements about LSST and what it will deliver), or recommendations expressed on this forum are those of the author(s) and do not necessarily reflect the views of the LSST Project.
+
+<a name="tos"></a>
 
 ## [Terms of Service](#tos)
 
